@@ -1,0 +1,4 @@
+category: Libs
+requires: cygwin glib2 libopensync0 libxml2 libgcrypt11 libopenldap2_3_0
+sdesc: "OpenSync LDAP plugin"
+ldesc: "LDAP plugin for the OpenSync synchronization framework"
